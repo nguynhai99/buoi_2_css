@@ -1,0 +1,103 @@
+/* css bài 1 */
+
+.main-bai1 {
+    width: 500px;
+    border: 1px solid black;
+    background-color: #EEFFFF;
+}
+
+.main-bai1 h2 {
+    margin-left: 10px;
+}
+
+.main-bai1 .p-title {
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.main-bai1 .p-detail {
+    margin-left: 10px;
+}
+
+.main-bai1 span {
+    margin-left: 10px;
+}
+
+.main-bai1 .warning {
+    color: red;
+}
+
+.main-bai1 .warning p {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+/* css bài 2 */
+
+.main-bai-2 {
+    width: 450px;
+    height: 280px;
+    background-color: #008000;
+}
+
+.main-bai-2 h2 {
+    margin-left: 10px;
+    padding-top: 20px;
+}
+
+.main-bai-2 p {
+    margin-left: 10px;
+}
+
+.main-bai-2 ul {
+    background-color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* css bài 3 */
+
+.p-title {
+    color: #C56C76;
+    font-weight: bold;
+}
+
+.img-icon {
+    font-size: 50px;
+    color: #C56C76;
+}
+
+
+/* css bài 4 */
+
+.main-bai-4 .title {
+    font-weight: bold;
+    font-size: 30px;
+    color: red;
+}
+
+
+/* css bafi 6 */
+
+.main-bai-6 {
+    text-align: center;
+    width: 400px;
+}
+
+.main-bai-6 .banner {
+    height: 150px;
+    background-color: #F4F4F4;
+    border-bottom: 3px solid #CCCCCC;
+}
+
+.main-bai-6 .banner p:first-child {
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 20px;
+}
