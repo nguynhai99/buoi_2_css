@@ -170,3 +170,76 @@
 .main-bai-8 .p-end {
     padding-bottom: 20px;
 }
+
+
+/* css bài 9 */
+
+.main-bai-9 {
+    width: 500px;
+    background-color: #CCCCFF;
+}
+
+.main-bai-9 h1 {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.p-1 {
+    margin-left: 40px;
+    color: #4A004A;
+}
+
+.p-1 span:first-child {
+    font-weight: bold;
+}
+
+.p-1 span:last-child {
+    margin-left: 30px;
+}
+
+.p-2 {
+    margin-left: 40px;
+    color: #000082;
+}
+
+.p-2 span:first-child {
+    font-weight: bold;
+}
+
+.p-2 span:last-child {
+    margin-left: 30px;
+}
+
+.p-4 {
+    margin-left: 40px;
+    padding-bottom: 20px;
+    color: #000082;
+}
+
+.p-4 span:first-child {
+    font-weight: bold;
+}
+
+.p-4 span:last-child {
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.border-box {
+    border: 2px solid black;
+    border-style: dashed;
+    margin-left: 20px;
+    padding: 10px 0px;
+    color: #4A004A;
+    width: 460px
+}
+
+.border-box span:first-child {
+    margin-left: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.border-box span:last-child {
+    margin-left: 50px;
+}
