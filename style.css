@@ -101,3 +101,72 @@
     font-size: 30px;
     padding-top: 20px;
 }
+
+
+/* css bài 7 */
+
+.main-bai-7 {
+    width: 500px;
+    margin-left: 20px;
+}
+
+.main-bai-7 .header {
+    text-align: center;
+}
+
+.main-bai-7 .header p:first-child {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.main-bai-7 .header p:last-child {
+    color: blue;
+    font-size: 25px;
+}
+
+.main-bai-7 .footer u {
+    color: blue;
+}
+
+.main-bai-7 .footer p:last-child {
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+
+/* css bài 8 */
+
+.main-bai-8 {
+    width: 600px;
+    background-color: #D8DA3D;
+}
+
+.main-bai-8 ul {
+    padding-top: 20px;
+}
+
+.main-bai-8 ul li {
+    color: #88137A;
+}
+
+.main-bai-8 ul li span {
+    color: blue;
+}
+
+.main-bai-8 p {
+    color: #88137A;
+    margin-left: 10px
+}
+
+.main-bai-8 .title {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.main-bai-8 p:last-child {
+    margin-bottom: 20px;
+}
+
+.main-bai-8 .p-end {
+    padding-bottom: 20px;
+}
