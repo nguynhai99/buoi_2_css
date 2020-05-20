@@ -1,74 +1,69 @@
 /* css bài 1 */
 
 .main-bai1 {
-<<<<<<< HEAD
     width: 500px;
     border: 1px solid black;
     background-color: #eeffff;
-=======
-  width: 500px;
-  border: 1px solid black;
-  background-color: #eeffff;
->>>>>>> eaeab9cd5730324e8a05bb7fd56ce50a9367f124
 }
 
 .main-bai1 h2 {
-  margin-left: 10px;
+    margin-left: 10px;
 }
 
 .main-bai1 .p-title {
-  font-weight: bold;
-  margin-left: 10px;
-  font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: 20px;
 }
 
 .main-bai1 .p-detail {
-  margin-left: 10px;
+    margin-left: 10px;
 }
 
 .main-bai1 span {
-  margin-left: 10px;
+    margin-left: 10px;
 }
 
 .main-bai1 .warning {
-  color: red;
+    color: red;
 }
 
 .main-bai1 .warning p {
-  margin-left: 10px;
-  font-weight: bold;
-  font-size: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 20px;
 }
+
 
 /* css bài 2 */
 
 .main-bai-2 {
-  width: 450px;
-  height: 280px;
-  background-color: #008000;
+    width: 450px;
+    height: 280px;
+    background-color: #008000;
 }
 
 .main-bai-2 h2 {
-  margin-left: 10px;
-  padding-top: 20px;
+    margin-left: 10px;
+    padding-top: 20px;
 }
 
 .main-bai-2 p {
-  margin-left: 10px;
+    margin-left: 10px;
 }
 
 .main-bai-2 ul {
-  background-color: red;
-  margin-left: 10px;
-  margin-right: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+    background-color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+
 
 /* css bài 3 */
 
 .p-title {
-<<<<<<< HEAD
     color: #c56c76;
     font-weight: bold;
 }
@@ -76,34 +71,26 @@
 .img-icon {
     font-size: 50px;
     color: #c56c76;
-=======
-  color: #c56c76;
-  font-weight: bold;
 }
 
-.img-icon {
-  font-size: 50px;
-  color: #c56c76;
->>>>>>> eaeab9cd5730324e8a05bb7fd56ce50a9367f124
-}
 
 /* css bài 4 */
 
 .main-bai-4 .title {
-  font-weight: bold;
-  font-size: 30px;
-  color: red;
+    font-weight: bold;
+    font-size: 30px;
+    color: red;
 }
+
 
 /* css bafi 6 */
 
 .main-bai-6 {
-  text-align: center;
-  width: 400px;
+    text-align: center;
+    width: 400px;
 }
 
 .main-bai-6 .banner {
-<<<<<<< HEAD
     height: 150px;
     background-color: #f4f4f4;
     border-bottom: 3px solid #cccccc;
@@ -293,166 +280,3 @@
 .main-bai-13 .body-form table td:first-child {
     float: right;
 }
-=======
-  height: 150px;
-  background-color: #f4f4f4;
-  border-bottom: 3px solid #cccccc;
-}
-
-.main-bai-6 .banner p:first-child {
-  font-weight: bold;
-  font-size: 30px;
-  padding-top: 20px;
-}
-
-/* css bài 7 */
-
-.main-bai-7 {
-  width: 500px;
-  margin-left: 20px;
-}
-
-.main-bai-7 .header {
-  text-align: center;
-}
-
-.main-bai-7 .header p:first-child {
-  font-weight: bold;
-  font-size: 30px;
-}
-
-.main-bai-7 .header p:last-child {
-  color: blue;
-  font-size: 25px;
-}
-
-.main-bai-7 .footer u {
-  color: blue;
-}
-
-.main-bai-7 .footer p:last-child {
-  font-weight: bold;
-  margin-bottom: 40px;
-}
-
-/* css bài 8 */
-
-.main-bai-8 {
-  width: 600px;
-  background-color: #d8da3d;
-}
-
-.main-bai-8 ul {
-  padding-top: 20px;
-}
-
-.main-bai-8 ul li {
-  color: #88137a;
-}
-
-.main-bai-8 ul li span {
-  color: blue;
-}
-
-.main-bai-8 p {
-  color: #88137a;
-  margin-left: 10px;
-}
-
-.main-bai-8 .title {
-  font-weight: bold;
-  font-size: 25px;
-}
-
-.main-bai-8 p:last-child {
-  margin-bottom: 20px;
-}
-
-.main-bai-8 .p-end {
-  padding-bottom: 20px;
-}
-
-/* css bài 9 */
-
-.main-bai-9 {
-  width: 500px;
-  background-color: #ccccff;
-}
-
-.main-bai-9 h1 {
-  padding-top: 20px;
-  padding-left: 10px;
-}
-
-.p-1 {
-  margin-left: 40px;
-  color: #4a004a;
-}
-
-.p-1 span:first-child {
-  font-weight: bold;
-}
-
-.p-1 span:last-child {
-  margin-left: 30px;
-}
-
-.p-2 {
-  margin-left: 40px;
-  color: #000082;
-}
-
-.p-2 span:first-child {
-  font-weight: bold;
-}
-
-.p-2 span:last-child {
-  margin-left: 30px;
-}
-
-.p-4 {
-  margin-left: 40px;
-  padding-bottom: 20px;
-  color: #000082;
-}
-
-.p-4 span:first-child {
-  font-weight: bold;
-}
-
-.p-4 span:last-child {
-  margin-left: 30px;
-  margin-bottom: 20px;
-}
-
-.border-box {
-  border: 2px solid black;
-  border-style: dashed;
-  margin-left: 20px;
-  padding: 10px 0px;
-  color: #4a004a;
-  width: 460px;
-}
-
-.border-box span:first-child {
-  margin-left: 20px;
-  font-weight: bold;
-  margin-top: 20px;
-}
-
-.border-box span:last-child {
-  margin-left: 50px;
-}
-/* css bài 12 */
-.main-bai-12 table {
-  text-align: center;
-  border-collapse: collapse;
-
-}
-.main-bai-12 table tr th{
-    border: 2px solid black;
-}
-.main-bai-12 table tr td{
-    border:2px solid black
-}
->>>>>>> eaeab9cd5730324e8a05bb7fd56ce50a9367f124
