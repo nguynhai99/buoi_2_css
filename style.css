@@ -280,3 +280,93 @@
 .main-bai-13 .body-form table td:first-child {
     float: right;
 }
+
+
+/* css bài 14 */
+
+.main-bai-14 {
+    width: 450px;
+    margin-left: 20px;
+}
+
+.main-bai-14 legend {
+    font-size: 20px;
+    margin-left: 20px;
+    width: 185px;
+    color: blue;
+}
+
+.main-bai-14 .form-2 legend {
+    width: 90px;
+}
+
+.main-bai-14 table {
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.main-bai-14 table tr td:first-child {
+    width: 80px;
+}
+
+.main-bai-14 .form-1 input {
+    background-color: #FFFFA0;
+}
+
+.main-bai-14 .form-2 {
+    height: 200px;
+}
+
+.main-bai-14 .form-2 input {
+    border-radius: 5px;
+}
+
+
+/* css bài 15 */
+
+.main-bai-15 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    height: 550px;
+    background: rgb(36, 0, 0);
+    background: linear-gradient(90deg, rgba(36, 0, 0, 1) 0%, rgba(121, 9, 9, 1) 100%);
+}
+
+.main-bai-15 .title {
+    color: white;
+}
+
+.box-main {
+    width: 320px;
+    height: 400px;
+    margin-left: 85px;
+    background-color: #F7F7F7;
+    border-radius: 20px;
+    position: absolute;
+    top: 40px;
+}
+
+.box-main .title {
+    background-color: #1C050C;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.box-main .title span {
+    margin-left: 90px;
+    font-weight: 700;
+}
+
+.form-detail .custom-btn {
+    background-color: #9F283D;
+    border: 0px solid transparent;
+    height: 35px;
+    width: 135px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.box-main p {
+    margin-top: 10px;
+}
