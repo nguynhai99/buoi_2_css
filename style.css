@@ -3,7 +3,7 @@
 .main-bai1 {
     width: 500px;
     border: 1px solid black;
-    background-color: #EEFFFF;
+    background-color: #eeffff;
 }
 
 .main-bai1 h2 {
@@ -64,13 +64,13 @@
 /* css bài 3 */
 
 .p-title {
-    color: #C56C76;
+    color: #c56c76;
     font-weight: bold;
 }
 
 .img-icon {
     font-size: 50px;
-    color: #C56C76;
+    color: #c56c76;
 }
 
 
@@ -92,12 +92,191 @@
 
 .main-bai-6 .banner {
     height: 150px;
-    background-color: #F4F4F4;
-    border-bottom: 3px solid #CCCCCC;
+    background-color: #f4f4f4;
+    border-bottom: 3px solid #cccccc;
 }
 
 .main-bai-6 .banner p:first-child {
     font-weight: bold;
     font-size: 30px;
     padding-top: 20px;
+}
+
+
+/* css bài 7 */
+
+.main-bai-7 {
+    width: 500px;
+    margin-left: 20px;
+}
+
+.main-bai-7 .header {
+    text-align: center;
+}
+
+.main-bai-7 .header p:first-child {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.main-bai-7 .header p:last-child {
+    color: blue;
+    font-size: 25px;
+}
+
+.main-bai-7 .footer u {
+    color: blue;
+}
+
+.main-bai-7 .footer p:last-child {
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+
+/* css bài 8 */
+
+.main-bai-8 {
+    width: 600px;
+    background-color: #d8da3d;
+}
+
+.main-bai-8 ul {
+    padding-top: 20px;
+}
+
+.main-bai-8 ul li {
+    color: #88137a;
+}
+
+.main-bai-8 ul li span {
+    color: blue;
+}
+
+.main-bai-8 p {
+    color: #88137a;
+    margin-left: 10px;
+}
+
+.main-bai-8 .title {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.main-bai-8 p:last-child {
+    margin-bottom: 20px;
+}
+
+.main-bai-8 .p-end {
+    padding-bottom: 20px;
+}
+
+
+/* css bài 9 */
+
+.main-bai-9 {
+    width: 500px;
+    background-color: #ccccff;
+}
+
+.main-bai-9 h1 {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.p-1 {
+    margin-left: 40px;
+    color: #4a004a;
+}
+
+.p-1 span:first-child {
+    font-weight: bold;
+}
+
+.p-1 span:last-child {
+    margin-left: 30px;
+}
+
+.p-2 {
+    margin-left: 40px;
+    color: #000082;
+}
+
+.p-2 span:first-child {
+    font-weight: bold;
+}
+
+.p-2 span:last-child {
+    margin-left: 30px;
+}
+
+.p-4 {
+    margin-left: 40px;
+    padding-bottom: 20px;
+    color: #000082;
+}
+
+.p-4 span:first-child {
+    font-weight: bold;
+}
+
+.p-4 span:last-child {
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.border-box {
+    border: 2px solid black;
+    border-style: dashed;
+    margin-left: 20px;
+    padding: 10px 0px;
+    color: #4a004a;
+    width: 460px;
+}
+
+.border-box span:first-child {
+    margin-left: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.border-box span:last-child {
+    margin-left: 50px;
+}
+
+
+/* css bài 12 */
+
+.main-bai-12 table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.main-bai-12 table tr th {
+    border: 2px solid black;
+}
+
+.main-bai-12 table tr td {
+    border: 2px solid black
+}
+
+
+/* css bài 13 */
+
+.main-bai-13 {
+    width: 685px;
+    height: 835px;
+    background-color: #A9D7D1;
+    text-align: center;
+}
+
+.main-bai-13 .body-form {
+    width: 665px;
+    height: 775px;
+    background-color: white;
+    margin-left: 10px;
+}
+
+.main-bai-13 .body-form table td:first-child {
+    float: right;
 }
